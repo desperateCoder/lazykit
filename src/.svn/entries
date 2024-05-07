@@ -1,0 +1,44 @@
+10
+
+dir
+21
+https://svn.code.sf.net/p/lazykit/code/LazyKit%20Copy%20&%20Waste/src
+https://svn.code.sf.net/p/lazykit/code
+
+
+
+2014-03-02T19:01:08.744633Z
+20
+desperatecoder
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+4a5cf328-455d-415e-9e52-96c8752b9f02
+
+
+
+
+
+
+0
+
+controller
+dir
+
+model
+dir
+
+view
+dir
+
